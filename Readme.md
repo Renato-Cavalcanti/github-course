@@ -1,0 +1,1 @@
+Arquivo alterado para verificação do novo status do arquivo.
